@@ -1,0 +1,6 @@
+{
+  "name": "Fusionador PDF Pro",
+  "description": "Una aplicación web simple y eficiente para fusionar múltiples archivos PDF en un solo documento. ¡Selecciona tus PDFs, organízalos si es necesario (función para el futuro) y haz clic en fusionar!",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
